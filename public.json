@@ -67,9 +67,13 @@
     [
      "Wuchang: Fallen Feathers",
      195
+    ],
+    [
+     "Mixtape",
+     53
     ]
    ],
-   "min": 195
+   "min": 248
   }
  },
  "firstDay": "2026-11-01",
@@ -253,6 +257,13 @@
   },
   {
    "earned": 1,
+   "hours": 1.5,
+   "last": "2026-11-05",
+   "name": "Mixtape",
+   "pct": 2.5
+  },
+  {
+   "earned": 1,
    "hours": 1.4,
    "last": "2026-06-25",
    "name": "Rise of the Tomb Raider",
@@ -365,13 +376,6 @@
   },
   {
    "earned": 1,
-   "hours": 0.6,
-   "last": "2026-11-05",
-   "name": "Mixtape",
-   "pct": 2.5
-  },
-  {
-   "earned": 1,
    "hours": 0.4,
    "last": "2026-08-15",
    "name": "RESIDENT EVIL 2",
@@ -406,6 +410,6 @@
    "pct": 0.0
   }
  ],
- "totalHours": 617.5,
- "updatedAt": "2026-11-05T22:15:39+08:00"
+ "totalHours": 618.4,
+ "updatedAt": "2026-11-05T22:30:39+08:00"
 }
