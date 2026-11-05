@@ -1,0 +1,397 @@
+{
+ "count": 45,
+ "days": {
+  "2026-11-01": {
+   "conf": "coarse",
+   "games": [
+    [
+     "HITMAN 3 - Base Game",
+     118
+    ]
+   ],
+   "min": 118
+  },
+  "2026-11-02": {
+   "conf": "coarse",
+   "games": [
+    [
+     "No Man's Sky",
+     209
+    ],
+    [
+     "HITMAN 3 - Base Game",
+     67
+    ],
+    [
+     "Assassin's Creed Unity",
+     3
+    ]
+   ],
+   "min": 279
+  },
+  "2026-11-03": {
+   "conf": "coarse",
+   "games": [
+    [
+     "No Man's Sky",
+     134
+    ],
+    [
+     "SCARLET NEXUS",
+     44
+    ],
+    [
+     "Assassin's Creed Unity",
+     1
+    ]
+   ],
+   "min": 179
+  },
+  "2026-11-04": {
+   "conf": "coarse",
+   "games": [
+    [
+     "HITMAN 3 - Base Game",
+     113
+    ],
+    [
+     "Wuchang: Fallen Feathers",
+     45
+    ]
+   ],
+   "min": 158
+  },
+  "2026-11-05": {
+   "conf": "coarse",
+   "games": [
+    [
+     "Wuchang: Fallen Feathers",
+     195
+    ]
+   ],
+   "min": 195
+  }
+ },
+ "firstDay": "2026-11-01",
+ "gamerscore": 5262,
+ "gamertag": "SolaceHorizon",
+ "games": [
+  {
+   "earned": 20,
+   "hours": 131.3,
+   "last": "2026-10-11",
+   "name": "Red Dead Redemption 2",
+   "pct": 30.5
+  },
+  {
+   "earned": 27,
+   "hours": 117.4,
+   "last": "2026-07-30",
+   "name": "Cyberpunk 2077",
+   "pct": 45.4
+  },
+  {
+   "earned": 42,
+   "hours": 68.2,
+   "last": "2026-10-18",
+   "name": "Forza Horizon 6",
+   "pct": 65.0
+  },
+  {
+   "earned": 27,
+   "hours": 48.1,
+   "last": "2026-09-07",
+   "name": "Persona 5 Royal",
+   "pct": 48.0
+  },
+  {
+   "earned": 21,
+   "hours": 42.1,
+   "last": "2026-11-05",
+   "name": "Wuchang: Fallen Feathers",
+   "pct": 38.0
+  },
+  {
+   "earned": 9,
+   "hours": 33.6,
+   "last": "2026-08-10",
+   "name": "Zenless Zone Zero",
+   "pct": 8.0
+  },
+  {
+   "earned": 22,
+   "hours": 27.8,
+   "last": "2026-10-19",
+   "name": "Watch Dogs®2",
+   "pct": 40.1
+  },
+  {
+   "earned": 11,
+   "hours": 18.7,
+   "last": "2026-11-04",
+   "name": "HITMAN 3 - Base Game",
+   "pct": 11.7
+  },
+  {
+   "earned": 13,
+   "hours": 16.3,
+   "last": "2026-07-05",
+   "name": "Resident Evil 4",
+   "pct": 26.3
+  },
+  {
+   "earned": 19,
+   "hours": 15.7,
+   "last": "2026-10-14",
+   "name": "Gears of War: E-Day",
+   "pct": 29.5
+  },
+  {
+   "earned": 2,
+   "hours": 12.2,
+   "last": "2026-08-21",
+   "name": "Fallout 4",
+   "pct": 1.2
+  },
+  {
+   "earned": 2,
+   "hours": 12.1,
+   "last": "2026-10-31",
+   "name": "Starfield",
+   "pct": 1.4
+  },
+  {
+   "earned": 7,
+   "hours": 8.8,
+   "last": "2026-07-06",
+   "name": "Call of Duty®",
+   "pct": 2.0
+  },
+  {
+   "earned": 5,
+   "hours": 7.5,
+   "last": "2026-11-03",
+   "name": "No Man's Sky",
+   "pct": 9.6
+  },
+  {
+   "earned": 6,
+   "hours": 6.0,
+   "last": "2026-08-15",
+   "name": "Batman™: Arkham Knight",
+   "pct": 3.8
+  },
+  {
+   "earned": 2,
+   "hours": 5.5,
+   "last": "2026-07-04",
+   "name": "ELDEN RING",
+   "pct": 3.0
+  },
+  {
+   "earned": 8,
+   "hours": 5.2,
+   "last": "2026-06-26",
+   "name": "Shadow of the Tomb Raider",
+   "pct": 5.6
+  },
+  {
+   "earned": 3,
+   "hours": 4.8,
+   "last": "2026-07-14",
+   "name": "Assassin's Creed® Mirage",
+   "pct": 4.0
+  },
+  {
+   "earned": 7,
+   "hours": 4.0,
+   "last": "2026-08-03",
+   "name": "Call of Duty®: Black Ops 6",
+   "pct": 10.0
+  },
+  {
+   "earned": 2,
+   "hours": 3.7,
+   "last": "2026-07-13",
+   "name": "Assassin's Creed Unity",
+   "pct": 2.3
+  },
+  {
+   "earned": 4,
+   "hours": 2.9,
+   "last": "2026-08-12",
+   "name": "Clair Obscur: Expedition 33",
+   "pct": 4.0
+  },
+  {
+   "earned": 2,
+   "hours": 2.8,
+   "last": "2026-08-04",
+   "name": "Apex Legends™",
+   "pct": 15.0
+  },
+  {
+   "earned": 2,
+   "hours": 2.0,
+   "last": "2026-10-29",
+   "name": "SCARLET NEXUS",
+   "pct": 2.0
+  },
+  {
+   "earned": 1,
+   "hours": 1.9,
+   "last": "2026-08-30",
+   "name": "Microsoft Flight Simulator 2024",
+   "pct": 1.0
+  },
+  {
+   "earned": 3,
+   "hours": 1.5,
+   "last": "2026-07-01",
+   "name": "DOOM: The Dark Ages",
+   "pct": 4.2
+  },
+  {
+   "earned": 1,
+   "hours": 1.4,
+   "last": "2026-06-25",
+   "name": "Rise of the Tomb Raider",
+   "pct": 0.4
+  },
+  {
+   "earned": 2,
+   "hours": 1.4,
+   "last": "2026-10-06",
+   "name": "Forza Horizon 5",
+   "pct": 0.7
+  },
+  {
+   "earned": 2,
+   "hours": 1.3,
+   "last": "2026-07-16",
+   "name": "DEATH STRANDING DIRECTOR'S CUT",
+   "pct": 2.0
+  },
+  {
+   "earned": 2,
+   "hours": 1.1,
+   "last": "2026-08-12",
+   "name": "NINJA GAIDEN 4",
+   "pct": 1.8
+  },
+  {
+   "earned": 1,
+   "hours": 1.1,
+   "last": "2026-09-30",
+   "name": "Wuthering Waves",
+   "pct": 0.9
+  },
+  {
+   "earned": 1,
+   "hours": 0.9,
+   "last": "2026-10-06",
+   "name": "Resonance: A Plague Tale Legacy",
+   "pct": 1.5
+  },
+  {
+   "earned": 1,
+   "hours": 0.8,
+   "last": "2026-09-13",
+   "name": "Ori and the Will of the Wisps",
+   "pct": 0.5
+  },
+  {
+   "earned": 2,
+   "hours": 0.8,
+   "last": "2026-08-30",
+   "name": "Goat Simulator 3",
+   "pct": 1.4
+  },
+  {
+   "earned": 2,
+   "hours": 0.8,
+   "last": "2026-09-11",
+   "name": "My Friend Peppa Pig",
+   "pct": 16.0
+  },
+  {
+   "earned": 1,
+   "hours": 0.8,
+   "last": "2026-08-11",
+   "name": "Halo: Campaign Evolved",
+   "pct": 1.0
+  },
+  {
+   "earned": 1,
+   "hours": 0.7,
+   "last": "2026-10-29",
+   "name": "Ghostwire: Tokyo",
+   "pct": 1.3
+  },
+  {
+   "earned": 1,
+   "hours": 0.7,
+   "last": "2026-09-11",
+   "name": "Kingdom Come: Deliverance 2",
+   "pct": 0.6
+  },
+  {
+   "earned": 1,
+   "hours": 0.6,
+   "last": "2026-10-10",
+   "name": "WATCH_DOGS™",
+   "pct": 1.2
+  },
+  {
+   "earned": 3,
+   "hours": 0.6,
+   "last": "2026-10-30",
+   "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+   "pct": 3.0
+  },
+  {
+   "earned": 2,
+   "hours": 0.6,
+   "last": "2026-07-03",
+   "name": "Minecraft",
+   "pct": 0.7
+  },
+  {
+   "earned": 1,
+   "hours": 0.4,
+   "last": "2026-08-15",
+   "name": "RESIDENT EVIL 2",
+   "pct": 1.9
+  },
+  {
+   "earned": 1,
+   "hours": 0.4,
+   "last": "2026-10-05",
+   "name": "Minecraft Dungeons II",
+   "pct": 2.0
+  },
+  {
+   "earned": 1,
+   "hours": 0.3,
+   "last": "2026-10-05",
+   "name": "Riders Republic™",
+   "pct": 1.6
+  },
+  {
+   "earned": 1,
+   "hours": 0.3,
+   "last": "2026-10-05",
+   "name": "Kernel Hearts",
+   "pct": 1.0
+  },
+  {
+   "earned": 0,
+   "hours": 0.3,
+   "last": "1601-01-01",
+   "name": "Quarantine Zone: The Last Check",
+   "pct": 0.0
+  }
+ ],
+ "totalHours": 615.7,
+ "updatedAt": "2026-11-05T18:17:03+08:00"
+}
