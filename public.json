@@ -1,5 +1,5 @@
 {
- "count": 45,
+ "count": 46,
  "days": {
   "2026-11-01": {
    "conf": "coarse",
@@ -73,7 +73,7 @@
   }
  },
  "firstDay": "2026-11-01",
- "gamerscore": 5262,
+ "gamerscore": 5267,
  "gamertag": "SolaceHorizon",
  "games": [
   {
@@ -273,6 +273,13 @@
    "pct": 2.0
   },
   {
+   "earned": 1,
+   "hours": 1.2,
+   "last": "2026-11-05",
+   "name": "Metro Exodus",
+   "pct": 0.3
+  },
+  {
    "earned": 2,
    "hours": 1.1,
    "last": "2026-08-12",
@@ -392,6 +399,6 @@
    "pct": 0.0
   }
  ],
- "totalHours": 615.7,
- "updatedAt": "2026-11-05T18:17:03+08:00"
+ "totalHours": 616.8,
+ "updatedAt": "2026-11-05T21:18:24+08:00"
 }
