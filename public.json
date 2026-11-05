@@ -1,5 +1,5 @@
 {
- "count": 46,
+ "count": 47,
  "days": {
   "2026-11-01": {
    "conf": "coarse",
@@ -73,7 +73,7 @@
   }
  },
  "firstDay": "2026-11-01",
- "gamerscore": 5267,
+ "gamerscore": 5292,
  "gamertag": "SolaceHorizon",
  "games": [
   {
@@ -365,6 +365,13 @@
   },
   {
    "earned": 1,
+   "hours": 0.6,
+   "last": "2026-11-05",
+   "name": "Mixtape",
+   "pct": 2.5
+  },
+  {
+   "earned": 1,
    "hours": 0.4,
    "last": "2026-08-15",
    "name": "RESIDENT EVIL 2",
@@ -399,6 +406,6 @@
    "pct": 0.0
   }
  ],
- "totalHours": 616.8,
- "updatedAt": "2026-11-05T21:45:41+08:00"
+ "totalHours": 617.5,
+ "updatedAt": "2026-11-05T22:00:38+08:00"
 }
