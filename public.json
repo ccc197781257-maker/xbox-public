@@ -80,10 +80,10 @@
    "games": [
     [
      "NieR:Automata™ BECOME AS GODS Edition",
-     67
+     164
     ]
    ],
-   "min": 67
+   "min": 164
   }
  },
  "firstDay": "2026-11-01",
@@ -232,6 +232,13 @@
   },
   {
    "earned": 4,
+   "hours": 3.4,
+   "last": "2026-11-06",
+   "name": "NieR:Automata™ BECOME AS GODS Edition",
+   "pct": 6.0
+  },
+  {
+   "earned": 4,
    "hours": 2.9,
    "last": "2026-08-12",
    "name": "Clair Obscur: Expedition 33",
@@ -257,13 +264,6 @@
    "last": "2026-08-30",
    "name": "Microsoft Flight Simulator 2024",
    "pct": 1.0
-  },
-  {
-   "earned": 4,
-   "hours": 1.8,
-   "last": "2026-11-06",
-   "name": "NieR:Automata™ BECOME AS GODS Edition",
-   "pct": 6.0
   },
   {
    "earned": 3,
@@ -427,6 +427,6 @@
    "pct": 0.0
   }
  ],
- "totalHours": 620.1,
- "updatedAt": "2026-11-06T12:00:40+08:00"
+ "totalHours": 621.8,
+ "updatedAt": "2026-11-06T12:15:38+08:00"
 }
