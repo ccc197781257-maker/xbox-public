@@ -87,7 +87,7 @@
   }
  },
  "firstDay": "2026-11-01",
- "gamerscore": 5307,
+ "gamerscore": 5322,
  "gamertag": "SolaceHorizon",
  "games": [
   {
@@ -259,11 +259,11 @@
    "pct": 1.0
   },
   {
-   "earned": 1,
+   "earned": 2,
    "hours": 1.8,
    "last": "2026-11-06",
    "name": "NieR:Automata™ BECOME AS GODS Edition",
-   "pct": 1.5
+   "pct": 3.0
   },
   {
    "earned": 3,
@@ -428,5 +428,5 @@
   }
  ],
  "totalHours": 620.1,
- "updatedAt": "2026-11-06T10:30:39+08:00"
+ "updatedAt": "2026-11-06T10:45:39+08:00"
 }
