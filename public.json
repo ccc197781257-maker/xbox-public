@@ -97,11 +97,15 @@
      95
     ],
     [
+     "Indiana Jones and the Great Circle",
+     86
+    ],
+    [
      "Metro Exodus",
      13
     ]
    ],
-   "min": 108
+   "min": 194
   }
  },
  "firstDay": "2026-11-01",
@@ -314,6 +318,13 @@
   {
    "earned": 2,
    "hours": 1.4,
+   "last": "2026-11-07",
+   "name": "Indiana Jones and the Great Circle",
+   "pct": 1.6
+  },
+  {
+   "earned": 2,
+   "hours": 1.4,
    "last": "2026-10-06",
    "name": "Forza Horizon 5",
    "pct": 0.7
@@ -443,15 +454,8 @@
    "last": "1601-01-01",
    "name": "Quarantine Zone: The Last Check",
    "pct": 0.0
-  },
-  {
-   "earned": 2,
-   "hours": 0.0,
-   "last": "2026-11-07",
-   "name": "Indiana Jones and the Great Circle",
-   "pct": 1.6
   }
  ],
- "totalHours": 623.7,
- "updatedAt": "2026-11-07T19:15:38+08:00"
+ "totalHours": 625.1,
+ "updatedAt": "2026-11-07T19:30:38+08:00"
 }
