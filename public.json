@@ -1,5 +1,5 @@
 {
- "count": 48,
+ "count": 49,
  "days": {
   "2026-11-01": {
    "conf": "coarse",
@@ -105,7 +105,7 @@
   }
  },
  "firstDay": "2026-11-01",
- "gamerscore": 5352,
+ "gamerscore": 5362,
  "gamertag": "SolaceHorizon",
  "games": [
   {
@@ -443,8 +443,15 @@
    "last": "1601-01-01",
    "name": "Quarantine Zone: The Last Check",
    "pct": 0.0
+  },
+  {
+   "earned": 1,
+   "hours": 0.0,
+   "last": "2026-11-07",
+   "name": "Indiana Jones and the Great Circle",
+   "pct": 0.8
   }
  ],
  "totalHours": 623.7,
- "updatedAt": "2026-11-07T18:00:40+08:00"
+ "updatedAt": "2026-11-07T18:15:38+08:00"
 }
