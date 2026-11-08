@@ -110,6 +110,16 @@
     ]
    ],
    "min": 237
+  },
+  "2026-11-08": {
+   "conf": "exact",
+   "games": [
+    [
+     "Indiana Jones and the Great Circle",
+     27
+    ]
+   ],
+   "min": 27
   }
  },
  "firstDay": "2026-11-01",
@@ -292,6 +302,13 @@
    "pct": 1.0
   },
   {
+   "earned": 3,
+   "hours": 1.9,
+   "last": "2026-11-08",
+   "name": "Indiana Jones and the Great Circle",
+   "pct": 2.4
+  },
+  {
    "earned": 1,
    "hours": 1.6,
    "last": "2026-11-05",
@@ -318,13 +335,6 @@
    "last": "2026-06-25",
    "name": "Rise of the Tomb Raider",
    "pct": 0.4
-  },
-  {
-   "earned": 3,
-   "hours": 1.4,
-   "last": "2026-11-08",
-   "name": "Indiana Jones and the Great Circle",
-   "pct": 2.4
   },
   {
    "earned": 2,
@@ -460,6 +470,6 @@
    "pct": 0.0
   }
  ],
- "totalHours": 625.1,
- "updatedAt": "2026-11-08T13:00:39+08:00"
+ "totalHours": 625.6,
+ "updatedAt": "2026-11-08T13:12:00+08:00"
 }
