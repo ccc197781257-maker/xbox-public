@@ -115,15 +115,23 @@
    "conf": "exact",
    "games": [
     [
+     "HITMAN 3 - Base Game",
+     1220
+    ],
+    [
      "NieR:Automata™ BECOME AS GODS Edition",
      53
+    ],
+    [
+     "My Friend Peppa Pig",
+     51
     ],
     [
      "Indiana Jones and the Great Circle",
      27
     ]
    ],
-   "min": 80
+   "min": 1351
   }
  },
  "firstDay": "2026-11-01",
@@ -178,6 +186,13 @@
    "last": "2026-10-19",
    "name": "Watch Dogs®2",
    "pct": 40.1
+  },
+  {
+   "earned": 11,
+   "hours": 20.3,
+   "last": "2026-11-04",
+   "name": "HITMAN 3 - Base Game",
+   "pct": 11.7
   },
   {
    "earned": 13,
@@ -383,6 +398,13 @@
    "pct": 1.4
   },
   {
+   "earned": 2,
+   "hours": 0.8,
+   "last": "2026-09-11",
+   "name": "My Friend Peppa Pig",
+   "pct": 16.0
+  },
+  {
    "earned": 1,
    "hours": 0.8,
    "last": "2026-08-11",
@@ -458,22 +480,8 @@
    "last": "1601-01-01",
    "name": "Quarantine Zone: The Last Check",
    "pct": 0.0
-  },
-  {
-   "earned": 11,
-   "hours": 0.0,
-   "last": "2026-11-04",
-   "name": "HITMAN 3 - Base Game",
-   "pct": 11.7
-  },
-  {
-   "earned": 2,
-   "hours": 0.0,
-   "last": "2026-09-11",
-   "name": "My Friend Peppa Pig",
-   "pct": 16.0
   }
  ],
- "totalHours": 605.3,
- "updatedAt": "2026-11-08T23:00:38+08:00"
+ "totalHours": 626.5,
+ "updatedAt": "2026-11-08T23:15:38+08:00"
 }
