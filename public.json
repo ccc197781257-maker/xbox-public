@@ -132,6 +132,16 @@
     ]
    ],
    "min": 1351
+  },
+  "2026-11-09": {
+   "conf": "exact",
+   "games": [
+    [
+     "NieR:Automata™ BECOME AS GODS Edition",
+     68
+    ]
+   ],
+   "min": 68
   }
  },
  "firstDay": "2026-11-01",
@@ -251,6 +261,13 @@
    "pct": 3.0
   },
   {
+   "earned": 7,
+   "hours": 5.4,
+   "last": "2026-11-09",
+   "name": "NieR:Automata™ BECOME AS GODS Edition",
+   "pct": 10.5
+  },
+  {
    "earned": 8,
    "hours": 5.2,
    "last": "2026-06-26",
@@ -263,13 +280,6 @@
    "last": "2026-07-14",
    "name": "Assassin's Creed® Mirage",
    "pct": 4.0
-  },
-  {
-   "earned": 7,
-   "hours": 4.3,
-   "last": "2026-11-09",
-   "name": "NieR:Automata™ BECOME AS GODS Edition",
-   "pct": 10.5
   },
   {
    "earned": 7,
@@ -482,6 +492,6 @@
    "pct": 0.0
   }
  ],
- "totalHours": 626.5,
- "updatedAt": "2026-11-09T12:00:39+08:00"
+ "totalHours": 627.6,
+ "updatedAt": "2026-11-09T12:15:37+08:00"
 }
