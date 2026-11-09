@@ -145,7 +145,7 @@
   }
  },
  "firstDay": "2026-11-01",
- "gamerscore": 5427,
+ "gamerscore": 5442,
  "gamertag": "SolaceHorizon",
  "games": [
   {
@@ -198,11 +198,11 @@
    "pct": 40.1
   },
   {
-   "earned": 11,
+   "earned": 12,
    "hours": 20.3,
-   "last": "2026-11-04",
+   "last": "2026-11-09",
    "name": "HITMAN 3 - Base Game",
-   "pct": 11.7
+   "pct": 12.7
   },
   {
    "earned": 13,
@@ -493,5 +493,5 @@
   }
  ],
  "totalHours": 627.6,
- "updatedAt": "2026-11-09T12:45:39+08:00"
+ "updatedAt": "2026-11-09T13:00:38+08:00"
 }
