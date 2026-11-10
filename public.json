@@ -151,6 +151,10 @@
    "conf": "exact",
    "games": [
     [
+     "Assassin's Creed® Mirage",
+     286
+    ],
+    [
      "Metro Exodus",
      87
     ],
@@ -159,7 +163,7 @@
      76
     ]
    ],
-   "min": 163
+   "min": 449
   }
  },
  "firstDay": "2026-11-01",
@@ -291,6 +295,13 @@
    "last": "2026-06-26",
    "name": "Shadow of the Tomb Raider",
    "pct": 5.6
+  },
+  {
+   "earned": 3,
+   "hours": 4.8,
+   "last": "2026-07-14",
+   "name": "Assassin's Creed® Mirage",
+   "pct": 4.0
   },
   {
    "earned": 7,
@@ -501,15 +512,8 @@
    "last": "1601-01-01",
    "name": "Quarantine Zone: The Last Check",
    "pct": 0.0
-  },
-  {
-   "earned": 3,
-   "hours": 0.0,
-   "last": "2026-07-14",
-   "name": "Assassin's Creed® Mirage",
-   "pct": 4.0
   }
  ],
- "totalHours": 627.3,
- "updatedAt": "2026-11-10T15:45:41+08:00"
+ "totalHours": 632.1,
+ "updatedAt": "2026-11-10T16:00:37+08:00"
 }
