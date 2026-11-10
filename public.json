@@ -153,9 +153,13 @@
     [
      "HITMAN 3 - Base Game",
      38
+    ],
+    [
+     "Metro Exodus",
+     9
     ]
    ],
-   "min": 38
+   "min": 47
   }
  },
  "firstDay": "2026-11-01",
@@ -352,18 +356,18 @@
    "pct": 2.5
   },
   {
+   "earned": 1,
+   "hours": 1.5,
+   "last": "2026-11-05",
+   "name": "Metro Exodus",
+   "pct": 0.3
+  },
+  {
    "earned": 3,
    "hours": 1.5,
    "last": "2026-07-01",
    "name": "DOOM: The Dark Ages",
    "pct": 4.2
-  },
-  {
-   "earned": 1,
-   "hours": 1.4,
-   "last": "2026-11-05",
-   "name": "Metro Exodus",
-   "pct": 0.3
   },
   {
    "earned": 1,
@@ -506,6 +510,6 @@
    "pct": 0.0
   }
  ],
- "totalHours": 630.0,
- "updatedAt": "2026-11-10T10:00:39+08:00"
+ "totalHours": 630.2,
+ "updatedAt": "2026-11-10T10:15:39+08:00"
 }
