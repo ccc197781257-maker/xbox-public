@@ -169,11 +169,15 @@
    "conf": "exact",
    "games": [
     [
+     "NieR:Automata™ BECOME AS GODS Edition",
+     28
+    ],
+    [
      "007 First Light",
      25
     ]
    ],
-   "min": 25
+   "min": 53
   }
  },
  "firstDay": "2026-11-01",
@@ -286,18 +290,18 @@
    "pct": 3.8
   },
   {
+   "earned": 7,
+   "hours": 5.9,
+   "last": "2026-11-09",
+   "name": "NieR:Automata™ BECOME AS GODS Edition",
+   "pct": 10.5
+  },
+  {
    "earned": 2,
    "hours": 5.5,
    "last": "2026-07-04",
    "name": "ELDEN RING",
    "pct": 3.0
-  },
-  {
-   "earned": 7,
-   "hours": 5.4,
-   "last": "2026-11-09",
-   "name": "NieR:Automata™ BECOME AS GODS Edition",
-   "pct": 10.5
   },
   {
    "earned": 8,
@@ -531,6 +535,6 @@
    "pct": 0.0
   }
  ],
- "totalHours": 633.6,
- "updatedAt": "2026-11-11T15:30:38+08:00"
+ "totalHours": 634.1,
+ "updatedAt": "2026-11-11T15:45:38+08:00"
 }
