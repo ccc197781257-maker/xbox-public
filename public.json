@@ -1,5 +1,5 @@
 {
- "count": 50,
+ "count": 51,
  "days": {
   "2026-11-01": {
    "conf": "coarse",
@@ -185,7 +185,7 @@
   }
  },
  "firstDay": "2026-11-01",
- "gamerscore": 5517,
+ "gamerscore": 5562,
  "gamertag": "SolaceHorizon",
  "games": [
   {
@@ -537,8 +537,15 @@
    "last": "1601-01-01",
    "name": "Quarantine Zone: The Last Check",
    "pct": 0.0
+  },
+  {
+   "earned": 4,
+   "hours": 0.0,
+   "last": "2026-11-11",
+   "name": "Rocket League®",
+   "pct": 2.0
   }
  ],
  "totalHours": 635.1,
- "updatedAt": "2026-11-11T19:30:38+08:00"
+ "updatedAt": "2026-11-11T19:45:39+08:00"
 }
