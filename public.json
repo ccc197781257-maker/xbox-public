@@ -1,5 +1,5 @@
 {
- "count": 49,
+ "count": 50,
  "days": {
   "2026-11-01": {
    "conf": "coarse",
@@ -509,11 +509,18 @@
   {
    "earned": 0,
    "hours": 0.3,
+   "last": "2002-11-15",
+   "name": "007 First Light",
+   "pct": 0.0
+  },
+  {
+   "earned": 0,
+   "hours": 0.3,
    "last": "1601-01-01",
    "name": "Quarantine Zone: The Last Check",
    "pct": 0.0
   }
  ],
- "totalHours": 632.9,
- "updatedAt": "2026-11-11T11:30:37+08:00"
+ "totalHours": 633.2,
+ "updatedAt": "2026-11-11T11:45:38+08:00"
 }
