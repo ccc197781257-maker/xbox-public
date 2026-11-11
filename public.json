@@ -169,6 +169,10 @@
    "conf": "exact",
    "games": [
     [
+     "HITMAN 3 - Base Game",
+     57
+    ],
+    [
      "NieR:Automata™ BECOME AS GODS Edition",
      28
     ],
@@ -177,7 +181,7 @@
      25
     ]
    ],
-   "min": 53
+   "min": 110
   }
  },
  "firstDay": "2026-11-01",
@@ -235,7 +239,7 @@
   },
   {
    "earned": 14,
-   "hours": 24.2,
+   "hours": 25.1,
    "last": "2026-11-11",
    "name": "HITMAN 3 - Base Game",
    "pct": 14.6
@@ -535,6 +539,6 @@
    "pct": 0.0
   }
  ],
- "totalHours": 634.1,
- "updatedAt": "2026-11-11T19:15:39+08:00"
+ "totalHours": 635.1,
+ "updatedAt": "2026-11-11T19:30:38+08:00"
 }
