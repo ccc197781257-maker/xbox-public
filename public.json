@@ -203,9 +203,13 @@
     [
      "Rocket League®",
      10
+    ],
+    [
+     "HITMAN 3 - Base Game",
+     1
     ]
    ],
-   "min": 10
+   "min": 11
   }
  },
  "firstDay": "2026-11-01",
@@ -571,5 +575,5 @@
   }
  ],
  "totalHours": 637.5,
- "updatedAt": "2026-11-13T12:45:38+08:00"
+ "updatedAt": "2026-11-13T13:00:39+08:00"
 }
