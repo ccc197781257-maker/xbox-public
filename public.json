@@ -202,14 +202,14 @@
    "games": [
     [
      "Rocket League®",
-     15
+     25
     ],
     [
      "HITMAN 3 - Base Game",
      1
     ]
    ],
-   "min": 16
+   "min": 26
   }
  },
  "firstDay": "2026-11-01",
@@ -462,6 +462,13 @@
    "pct": 1.5
   },
   {
+   "earned": 4,
+   "hours": 0.8,
+   "last": "2026-11-11",
+   "name": "Rocket League®",
+   "pct": 2.0
+  },
+  {
    "earned": 1,
    "hours": 0.8,
    "last": "2026-09-13",
@@ -509,13 +516,6 @@
    "last": "2026-09-11",
    "name": "Kingdom Come: Deliverance 2",
    "pct": 0.6
-  },
-  {
-   "earned": 4,
-   "hours": 0.6,
-   "last": "2026-11-11",
-   "name": "Rocket League®",
-   "pct": 2.0
   },
   {
    "earned": 1,
@@ -574,6 +574,6 @@
    "pct": 0.0
   }
  ],
- "totalHours": 637.6,
- "updatedAt": "2026-11-13T14:45:40+08:00"
+ "totalHours": 637.8,
+ "updatedAt": "2026-11-13T15:00:37+08:00"
 }
