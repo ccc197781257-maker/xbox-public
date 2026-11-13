@@ -196,6 +196,16 @@
     ]
    ],
    "min": 115
+  },
+  "2026-11-13": {
+   "conf": "exact",
+   "games": [
+    [
+     "Rocket League®",
+     10
+    ]
+   ],
+   "min": 10
   }
  },
  "firstDay": "2026-11-01",
@@ -518,18 +528,18 @@
    "pct": 0.7
   },
   {
+   "earned": 4,
+   "hours": 0.5,
+   "last": "2026-11-11",
+   "name": "Rocket League®",
+   "pct": 2.0
+  },
+  {
    "earned": 1,
    "hours": 0.4,
    "last": "2026-08-15",
    "name": "RESIDENT EVIL 2",
    "pct": 1.9
-  },
-  {
-   "earned": 4,
-   "hours": 0.4,
-   "last": "2026-11-11",
-   "name": "Rocket League®",
-   "pct": 2.0
   },
   {
    "earned": 1,
@@ -560,6 +570,6 @@
    "pct": 0.0
   }
  ],
- "totalHours": 637.4,
- "updatedAt": "2026-11-13T12:15:38+08:00"
+ "totalHours": 637.5,
+ "updatedAt": "2026-11-13T12:30:39+08:00"
 }
