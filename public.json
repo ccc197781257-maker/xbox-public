@@ -201,15 +201,15 @@
    "conf": "exact",
    "games": [
     [
-     "Rocket League®",
-     25
+     "HITMAN 3 - Base Game",
+     56
     ],
     [
-     "HITMAN 3 - Base Game",
-     1
+     "Rocket League®",
+     25
     ]
    ],
-   "min": 26
+   "min": 81
   }
  },
  "firstDay": "2026-11-01",
@@ -259,18 +259,18 @@
    "pct": 8.0
   },
   {
+   "earned": 17,
+   "hours": 28.0,
+   "last": "2026-11-13",
+   "name": "HITMAN 3 - Base Game",
+   "pct": 17.5
+  },
+  {
    "earned": 22,
    "hours": 27.8,
    "last": "2026-10-19",
    "name": "Watch Dogs®2",
    "pct": 40.1
-  },
-  {
-   "earned": 17,
-   "hours": 27.1,
-   "last": "2026-11-13",
-   "name": "HITMAN 3 - Base Game",
-   "pct": 17.5
   },
   {
    "earned": 13,
@@ -574,6 +574,6 @@
    "pct": 0.0
   }
  ],
- "totalHours": 637.8,
- "updatedAt": "2026-11-13T17:30:38+08:00"
+ "totalHours": 638.7,
+ "updatedAt": "2026-11-13T17:45:38+08:00"
 }
