@@ -219,11 +219,15 @@
      93
     ],
     [
+     "SCARLET NEXUS",
+     10
+    ],
+    [
      "Metro Exodus",
      5
     ]
    ],
-   "min": 98
+   "min": 108
   }
  },
  "firstDay": "2026-11-01",
@@ -400,7 +404,7 @@
   },
   {
    "earned": 3,
-   "hours": 2.0,
+   "hours": 2.2,
    "last": "2026-11-15",
    "name": "SCARLET NEXUS",
    "pct": 3.0
@@ -588,6 +592,6 @@
    "pct": 0.0
   }
  ],
- "totalHours": 640.4,
- "updatedAt": "2026-11-15T13:30:39+08:00"
+ "totalHours": 640.5,
+ "updatedAt": "2026-11-15T13:33:42+08:00"
 }
