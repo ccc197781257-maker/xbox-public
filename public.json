@@ -238,6 +238,16 @@
     ]
    ],
    "min": 24
+  },
+  "2026-11-20": {
+   "conf": "exact",
+   "games": [
+    [
+     "Zenless Zone Zero",
+     3
+    ]
+   ],
+   "min": 3
   }
  },
  "firstDay": "2026-11-01",
@@ -281,7 +291,7 @@
   },
   {
    "earned": 9,
-   "hours": 34.0,
+   "hours": 34.1,
    "last": "2026-08-10",
    "name": "Zenless Zone Zero",
    "pct": 8.0
@@ -602,6 +612,6 @@
    "pct": 0.0
   }
  ],
- "totalHours": 640.9,
- "updatedAt": "2026-11-20T21:15:38+08:00"
+ "totalHours": 641.0,
+ "updatedAt": "2026-11-20T21:30:38+08:00"
 }
