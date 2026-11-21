@@ -258,10 +258,10 @@
    "games": [
     [
      "HITMAN 3 - Base Game",
-     44
+     99
     ]
    ],
-   "min": 44
+   "min": 99
   }
  },
  "firstDay": "2026-11-01",
@@ -312,7 +312,7 @@
   },
   {
    "earned": 18,
-   "hours": 30.9,
+   "hours": 31.8,
    "last": "2026-11-21",
    "name": "HITMAN 3 - Base Game",
    "pct": 18.5
@@ -626,6 +626,6 @@
    "pct": 0.0
   }
  ],
- "totalHours": 642.3,
- "updatedAt": "2026-11-21T11:15:37+08:00"
+ "totalHours": 643.2,
+ "updatedAt": "2026-11-21T11:30:38+08:00"
 }
